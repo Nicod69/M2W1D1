@@ -1,0 +1,15 @@
+/*
+Algoritmo: è una di istruzioni che serve per risolvere un problema ed ottenere un certo risultato partendo da un certo numero di dati iniziali:
+esempio algoritmo che mi da la somma di due numeri le istruzioni in questo caso è l'addizione dei due numeri che mi da come risultato la somma.
+
+
+Variabile: è come un contenitore/scatola che può contenere qualsiasi tipo di cosa che decidiamo noi, ad esempio una scatola può contenere delle caramelle o dei cioccolatini ed 
+in base alle necessità potrà contenere ad esempio 100 caramelle, quindi il suo valore iniziale è 100 e se di queste 100 caramelle 20 vengono distribuite a dei bambini la scatola
+avrà come nuovo valore 80.
+
+
+No Undefined e Null non sono la stessa cosa:
+Undefined indica una variabile per la quale non abbiamo ancora deciso cosa dovrà contenere cioè non gli è stato assegnato nessun valore come scatola senza niente dentro.
+
+Null indica una variabile che ha un valore nullo, non viene allocato nessun spazio di memoria.
+*/
